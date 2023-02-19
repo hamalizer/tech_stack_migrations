@@ -1,5 +1,5 @@
-# employee_attrition_eda
+# Tech Stack Migrations EDA
 
-EDA on Tech serivce stack migrations.
+EDA on Tech service stack migrations.
 
-Includes notebook in the approptiate .ipynb and streamlit site data in app.py 
+Includes a Jupyter notebook in notebook folder and streamlit site data in app.py
