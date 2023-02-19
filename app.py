@@ -14,4 +14,4 @@ st.write(px.scatter_matrix(df, color='year'))
 
 
 
-st.write('It is not a functional application yet. Under construction.') 
+st.write('It is not a functional application yet. Under construction.') https://github.com/hamalizer/tech_stach_migrations
